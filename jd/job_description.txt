@@ -1,0 +1,11 @@
+We are looking for a Python Developer.
+
+Required Skills:
+Python
+SQL
+Git
+HTML
+CSS
+JavaScript
+Machine Learning
+Communication

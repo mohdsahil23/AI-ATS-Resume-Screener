@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+pandas
+pdfplumber
+spacy
+nltk
+phonenumbers
+plotly
+openpyxl
+reportlab
+python-dotenv
+google-generativeai
